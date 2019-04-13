@@ -3,8 +3,3 @@ ibrahim nobah
 CS
  
 
- 1- cat 
- 2- dog
- 3-lion
- 4-frog
- 
